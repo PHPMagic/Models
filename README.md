@@ -1,4 +1,4 @@
-Models
+PHPMagic\Models
 ======
 
-PHPMagic\Models
+It's Magic!
