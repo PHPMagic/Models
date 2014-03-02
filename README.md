@@ -1,0 +1,4 @@
+Models
+======
+
+PHPMagic\Models
